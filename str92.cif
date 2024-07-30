@@ -1,0 +1,56 @@
+data_image0
+_cell_length_a       7.08432
+_cell_length_b       7.0845
+_cell_length_c       20.8212
+_cell_angle_alpha    96.6836
+_cell_angle_beta     96.6756
+_cell_angle_gamma    48.1096
+
+_symmetry_space_group_name_H-M    "P 1"
+_symmetry_int_tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_label
+  _atom_site_occupancy
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_thermal_displace_type
+  _atom_site_B_iso_or_equiv
+  _atom_site_type_symbol
+  In1      1.0000 0.12378  0.12619  0.62744  Biso   1.000  In
+  Ga1      1.0000 0.43956  0.43568  0.68965  Biso   1.000  Ga
+  Cu1      1.0000 0.49685  0.49617  0.49937  Biso   1.000  Cu
+  Cu2      1.0000 0.81880  0.81354  0.56406  Biso   1.000  Cu
+  Se1      1.0000 0.82836  0.36276  0.72682  Biso   1.000  Se
+  Se2      1.0000 0.22812  0.69408  0.59244  Biso   1.000  Se
+  Se3      1.0000 0.87344  0.43894  0.53181  Biso   1.000  Se
+  Se4      1.0000 0.55882  0.02103  0.65825  Biso   1.000  Se
+  Ga2      1.0000 0.87423  0.87466  0.37401  Biso   1.000  Ga
+  In2      1.0000 0.18696  0.18991  0.43651  Biso   1.000  In
+  Cu3      1.0000 0.25071  0.24927  0.24883  Biso   1.000  Cu
+  Cu4      1.0000 0.56090  0.56398  0.31307  Biso   1.000  Cu
+  Se5      1.0000 0.61922  0.08428  0.47181  Biso   1.000  Se
+  Se6      1.0000 0.95529  0.48115  0.33634  Biso   1.000  Se
+  Se7      1.0000 0.63589  0.17523  0.28556  Biso   1.000  Se
+  Se8      1.0000 0.28929  0.75729  0.40488  Biso   1.000  Se
+  Ga3      1.0000 0.62497  0.62512  0.12473  Biso   1.000  Ga
+  In3      1.0000 0.93725  0.93765  0.18724  Biso   1.000  In
+  Cu5      1.0000 0.00127  0.99812  0.00056  Biso   1.000  Cu
+  Cu6      1.0000 0.31148  0.31355  0.06107  Biso   1.000  Cu
+  Se9      1.0000 0.36576  0.83880  0.22192  Biso   1.000  Se
+  Se10     1.0000 0.70421  0.23184  0.08762  Biso   1.000  Se
+  Se11     1.0000 0.38786  0.92319  0.03547  Biso   1.000  Se
+  Se12     1.0000 0.04260  0.50544  0.15331  Biso   1.000  Se
+  Ga4      1.0000 0.37704  0.37363  0.87343  Biso   1.000  Ga
+  In4      1.0000 0.68726  0.68618  0.93657  Biso   1.000  In
+  Cu7      1.0000 0.75132  0.75593  0.75157  Biso   1.000  Cu
+  Cu8      1.0000 0.05875  0.05937  0.81178  Biso   1.000  Cu
+  Se13     1.0000 0.11537  0.58945  0.97030  Biso   1.000  Se
+  Se14     1.0000 0.45014  0.98390  0.83734  Biso   1.000  Se
+  Se15     1.0000 0.15052  0.66200  0.78147  Biso   1.000  Se
+  Se16     1.0000 0.79397  0.25166  0.90476  Biso   1.000  Se
